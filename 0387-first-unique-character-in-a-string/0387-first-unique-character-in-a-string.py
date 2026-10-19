@@ -1,4 +1,3 @@
-from collections import Counter
 class Solution(object):
     def firstUniqChar(self, s):
         counter = Counter(s)
