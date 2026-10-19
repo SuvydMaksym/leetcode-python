@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/SuvydMaksym/leetcode-python/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SuvydMaksym/leetcode-python/tree/main/0242-valid-anagram/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/SuvydMaksym/leetcode-python/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/SuvydMaksym/leetcode-python/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
